@@ -24,6 +24,7 @@ The repository contains the following key components:
 
 ## ⚠️ **Important Notice: Training Required**
 The trained model weights have been **removed** due to file size limitations. If you want to test the model, you must first **retrain it**.
+(🚨 Create transformer and transformer_GA folders inside ---> best_model_weights before training 🚨)
 
 There are **two ways to train the model**:
 
