@@ -45,24 +45,6 @@ If you want to train the model on a different dataset:
 
 ---
 
-## 🚀 **Performance on NVIDIA Stock Prediction**
-
-Our trained Transformer model successfully predicts NVIDIA stock prices with remarkable accuracy. The evaluation metrics achieved are:
-
-📊 **Performance Metrics**
-![Performance Results](assets/performance_results.png)
-
----
-
-## 📈 **Ground Truth vs. Predictions**
-The following plot visualizes the model’s predictions against the actual stock prices:
-
-![GT vs Predictions](assets/transformer__GTs_vs_Preds.png)
-
-As shown, the model effectively captures the stock market trend with minimal deviation from real values.
-
----
-
 ## 📥 **Cloning the Repository**
 To use this project, clone the repository and navigate into it:
 
